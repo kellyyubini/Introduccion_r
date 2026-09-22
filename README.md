@@ -24,7 +24,16 @@ Si quedó todo bien instalado, cuando abras RStudio deberías ver algo así:
 
 ![Interfaz de RStudio](Imagenes/1.png)
 
-Para el desarrollo del curso utilizaremos la versión de R 
+Para el desarrollo del curso utilizaremos la versión de R 4.6.1
+
+## Descarga tus primeros paquetes
+
+
+Durante el curso utilizaremos distintos paquetes de R. Para comenzar, instalaremos **tidyverse**, una colección de paquetes diseñados para importar, transformar, analizar y visualizar datos.
+
+Para instalar `tidyverse`, copia y ejecuta el siguiente código en la **Consola de RStudio**:
+
+   - install.packages("tidyverse")
 
 ## Contenidos
 
